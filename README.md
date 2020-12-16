@@ -1,2 +1,4 @@
 # kotlin-tutorial
 kotlinに魅了された男
+
+とりあえずサーバーサイドをkotlinで書いてみたい
